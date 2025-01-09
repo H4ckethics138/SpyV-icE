@@ -3,7 +3,7 @@
 
 Capturing audio (.wav) from target using a link
 
-![hello](https://user-images.githubusercontent.com/34893261/66277580-c7f4b980-e876-11e9-9d05-e3170ad9278e.png)
+![hello](https://github.com/H4ckethics138/SpyV-icE/blob/main/Screenshot%20From%202025-01-09%2015-42-17.png)
 
 ### How it works?
 
@@ -21,7 +21,7 @@ Port Forwarding using Serveo or Ngrok
 
 ### Usage:
 ```
-git clone https://github.com/d093w1z/sayhello
-cd sayhello
-bash sayhello.sh
+git clone https://github.com/H4ckethics138/SpyV-icE.git
+cd SpyV-icE
+bash SpyVoice.sh
 ```
