@@ -17,7 +17,7 @@ Port Forwarding using Serveo or Ngrok
 
 ## Legal disclaimer:
 
-#### Usage of SayHello for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume NO LIABILITY and are NOT RESPONSIBLE for any misuse or damage caused by this program.
+#### Usage of spyvoice  for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume NO LIABILITY and are NOT RESPONSIBLE for any misuse or damage caused by this program.
 
 ### Usage:
 ```
